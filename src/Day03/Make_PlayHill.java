@@ -1,4 +1,4 @@
-package Day03.k;
+
 
 public class Make_PlayHill {
 	public static void main(String[] args) {

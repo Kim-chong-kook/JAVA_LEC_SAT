@@ -1,4 +1,4 @@
-package Day03.k;
+
 /*
  * 조건문 Condition
  * 1.if, 2. switch

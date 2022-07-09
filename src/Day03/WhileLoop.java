@@ -1,4 +1,4 @@
-package Day03.k;
+
 
 /* while / do while
  * while(조건식){

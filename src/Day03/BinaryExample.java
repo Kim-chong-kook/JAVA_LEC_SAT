@@ -1,4 +1,4 @@
-package Day03.k;
+
 
 public class BinaryExample {
 	public static void main(String[] args) { // int를 &,|로 논리계산하므로 자동으로 2진수의 논리값을 계산해 d십진수로 돌려준다.

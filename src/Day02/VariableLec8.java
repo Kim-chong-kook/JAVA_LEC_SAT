@@ -1,6 +1,6 @@
-package Day02.k;
 
-public class VariableLec03 {
+
+public class VariableLec8 {
 	public static void main(String args[]) {
 		//-- 선언과 동시에 초기화
 		int a = 10;

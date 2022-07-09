@@ -1,6 +1,6 @@
-package Day02.k;
 
-public class VariableLec02 {
+
+public class VariableLec9 {
 	public static void main(String args[]) { // []는 배열이며 위치는 상관없다.
 		
 		if(args.length <2) {

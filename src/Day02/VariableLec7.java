@@ -1,7 +1,7 @@
-package Day02.k;
+
 // 변수공부
 
-public class VariableLec01 { // 클래스 선언부. 파일명과 동일하게 해야 한다.
+public class VariableLec7 { // 클래스 선언부. 파일명과 동일하게 해야 한다.
 	public static void main(String[] args) { // 자바 어플리케이션 스타팅 포인트
 		System.out.println("Hello Var!");
 		int score = 10;

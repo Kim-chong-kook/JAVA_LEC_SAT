@@ -1,4 +1,4 @@
-package Day03.k;
+
 
 public class InitialExample { // 추천 : 웹 풀스택https://sesac.seoul.kr/course/active/detail.do?courseActiveSeq=1417&srchCategoryTypeCd=&courseMasterSeq=234&currentMenuId=900001001
 

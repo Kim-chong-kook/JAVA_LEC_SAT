@@ -1,6 +1,6 @@
-package Day02.k;
 
-public class VariableLec04 {
+
+public class VariableLec6 {
 	public static void main(String args[]) {
 		// Char 데이터 타입 다루기
 		char alphaNum = 65; //--대문자 A

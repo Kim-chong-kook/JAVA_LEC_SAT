@@ -1,4 +1,4 @@
-package Day03.k;
+
 
 /**
  * Switch 문

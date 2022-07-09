@@ -1,4 +1,4 @@
-package Day03.k;
+
 
 public class Ternary { // 삼항연산
 public static void main(String[] args) {

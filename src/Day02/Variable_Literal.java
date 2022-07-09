@@ -1,4 +1,4 @@
-package Day02.k;
+
 
 public class Variable_Literal {
 	public static void main(String args[]) {

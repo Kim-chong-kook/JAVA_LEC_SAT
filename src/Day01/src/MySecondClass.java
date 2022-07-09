@@ -1,4 +1,4 @@
-package Day01;
+package src;
 
 public class MySecondClass { // 자바 클래스의 시작
 // 클래스 블록
