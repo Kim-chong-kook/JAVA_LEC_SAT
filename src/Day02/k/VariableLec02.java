@@ -1,8 +1,9 @@
+package Day02.k;
 
 public class VariableLec02 {
 	public static void main(String args[]) { // []는 배열이며 위치는 상관없다.
 		
-		if(args.lenth <2) {
+		if(args.length <2) {
 			System.out.println("사용법 : java VariableLec02 [배열] 연습입니다.");
 			return;
 		}

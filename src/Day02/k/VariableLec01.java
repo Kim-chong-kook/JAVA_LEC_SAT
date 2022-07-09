@@ -1,3 +1,4 @@
+package Day02.k;
 // 변수공부
 
 public class VariableLec01 { // 클래스 선언부. 파일명과 동일하게 해야 한다.
@@ -44,7 +45,7 @@ public class VariableLec01 { // 클래스 선언부. 파일명과 동일하게 �
 		}
 		
 		// ●●●●●●●●●●●●●●진로방향 잡기●●●●●●●●●●●●
-		String a;
+		String a1;
 		String adress1 = "https://roadmap.sh/java" ;
 		String adress2 = "https://roadmap.sh/frontend" ;
 		System.out.println("프런트엔드 =" + adress2); // 이종석 강사님 초기의 추천방향

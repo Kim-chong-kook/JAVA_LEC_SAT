@@ -1,3 +1,4 @@
+package Day01;
 
 public class MyHomeClass {
 	public static void main(String[] args) {

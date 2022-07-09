@@ -1,3 +1,4 @@
+package Day02.k;
 
 public class Variable_Const {
 	public static void main(String[] args) {
@@ -8,7 +9,7 @@ public class Variable_Const {
 		
 		//--상수는
 		final int MAX_AGE = 1000; //-- ●●● 상수는 final 키워드 사용 / 선언과 동시에 초기화 한다. / 변경하지 않게 할때 사용한다.
-		MAX_AGE = 100; //-- 상수는 변경 불가
+		// MAX_AGE = 100; //-- 상수는 변경 불가
 		
 		final int MAX_HEIGHT; // 이런 방식은 사용치 않는다.
 		MAX_HEIGHT = 180;
@@ -16,7 +17,7 @@ public class Variable_Const {
 		System.out.println(MAX_HEIGHT);
 		
 		final double PI = 3.141592;
-		PI = 4.5;
+		//PI = 4.5; //변경시 에러
 	}
 
 }

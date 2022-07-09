@@ -1,3 +1,4 @@
+package Day02.k;
 
 public class VariableLec_string {
 	public static void main(String[] args) {

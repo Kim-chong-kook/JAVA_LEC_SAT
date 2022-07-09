@@ -1,3 +1,4 @@
+package Day02.k;
 
 public class VariableLec04 {
 	public static void main(String args[]) {

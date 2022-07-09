@@ -1,3 +1,4 @@
+package Day02.k;
 
 public class Variable_Casting {
 	//--자바 Application 시작점(Entry Point)
@@ -47,8 +48,8 @@ public class Variable_Casting {
 		// (int)'A' 는 65의 값을 돌려준다.
 		System.out.println("(int)'A' = " + (int)'A');
 		// 주민번호는 13자리값이 있으므로 int는 10자리라서 실격, long를 선택해야 한다.
-		int regNo = 
-		long regNo = 7777771234567
+		// int regNo = 
+		// long regNo = 7777771234567
 		
 		
 		

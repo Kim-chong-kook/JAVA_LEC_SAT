@@ -1,3 +1,4 @@
+package Day01;
 		/* 오늘 첫날 2022.6.25 자바학습.
 		 * lodossw@gmail.com
 		 * 이종석 강사님과 함께.
