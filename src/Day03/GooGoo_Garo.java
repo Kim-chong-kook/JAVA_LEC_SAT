@@ -1,6 +1,8 @@
 
-
-public class NGooooo {
+/** 고정적인 것이 i, 계속 변하는 것이 j
+ * 
+ */
+public class GooGoo_Garo {
 
 	public static void main(String[] args) {
 		for(int i=1; i<=9; i++){ // 실행순서를 고려하면 V형이 된다.
