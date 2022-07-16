@@ -1,0 +1,15 @@
+이클립스 Import : JAVA_LEC_SAT 폴더까지 설정하면, 
+내부의 날짜 프로젝트들 불러옴.
+
+1. 패스트 캠퍼스 : https://fastcampus.co.kr/
+
+2. 유튜버 니콜라스 - 노마드 : FrontEnd, clone 코딩형.
+리액트 네이티브 101 : 앱 만드는 툴
+reack native 101
+셀레니움 : 크롤링 툴
+
+
+뭔가를 만들자 ==> 빨리 배운다.
+===============================
+새로운 명령어 : API 보기
+https://devdocs.io/openjdk~11/
